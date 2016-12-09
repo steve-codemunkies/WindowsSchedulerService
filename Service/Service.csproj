@@ -76,6 +76,7 @@
     <Compile Include="ITestService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestService.cs" />
     <Compile Include="TownCrierService.cs" />
   </ItemGroup>
   <ItemGroup>
